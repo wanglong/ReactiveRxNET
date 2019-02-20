@@ -1,0 +1,12 @@
+D:\AspNetCoreTest\ReactiveRxNET\ReactiveRxNET\bin\Debug\netcoreapp2.1\ReactiveRxNET.exe
+D:\AspNetCoreTest\ReactiveRxNET\ReactiveRxNET\bin\Debug\netcoreapp2.1\ReactiveRxNET.deps.json
+D:\AspNetCoreTest\ReactiveRxNET\ReactiveRxNET\bin\Debug\netcoreapp2.1\ReactiveRxNET.runtimeconfig.json
+D:\AspNetCoreTest\ReactiveRxNET\ReactiveRxNET\bin\Debug\netcoreapp2.1\ReactiveRxNET.runtimeconfig.dev.json
+D:\AspNetCoreTest\ReactiveRxNET\ReactiveRxNET\bin\Debug\netcoreapp2.1\ReactiveRxNET.dll
+D:\AspNetCoreTest\ReactiveRxNET\ReactiveRxNET\bin\Debug\netcoreapp2.1\ReactiveRxNET.pdb
+D:\AspNetCoreTest\ReactiveRxNET\ReactiveRxNET\obj\Debug\netcoreapp2.1\ReactiveRxNET.csprojAssemblyReference.cache
+D:\AspNetCoreTest\ReactiveRxNET\ReactiveRxNET\obj\Debug\netcoreapp2.1\ReactiveRxNET.csproj.CoreCompileInputs.cache
+D:\AspNetCoreTest\ReactiveRxNET\ReactiveRxNET\obj\Debug\netcoreapp2.1\ReactiveRxNET.AssemblyInfoInputs.cache
+D:\AspNetCoreTest\ReactiveRxNET\ReactiveRxNET\obj\Debug\netcoreapp2.1\ReactiveRxNET.AssemblyInfo.cs
+D:\AspNetCoreTest\ReactiveRxNET\ReactiveRxNET\obj\Debug\netcoreapp2.1\ReactiveRxNET.dll
+D:\AspNetCoreTest\ReactiveRxNET\ReactiveRxNET\obj\Debug\netcoreapp2.1\ReactiveRxNET.pdb
